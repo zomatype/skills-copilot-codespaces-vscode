@@ -1,0 +1,11 @@
+{
+    // この設定に名前を付ける
+    "name": "Codespace for Skills!",
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "GitHub.copilot"
+            ]
+        }
+    }
+}
